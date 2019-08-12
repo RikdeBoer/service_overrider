@@ -1,0 +1,4 @@
+name: Service Overrider
+type: module
+description: 'A module to override any service in an existing .services.yml file.'
+core: '8.x'
